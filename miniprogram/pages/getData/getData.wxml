@@ -1,0 +1,10 @@
+<!--miniprogram/pages/getData/getData.wxml-->
+<view class="container">
+<button
+  type="primary"
+  bindtap="onStart"
+>
+  查询
+</button>
+<text>{{count}}</text>
+</view>

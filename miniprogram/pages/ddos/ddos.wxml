@@ -1,0 +1,10 @@
+<!--miniprogram/pages/ddos/ddos.wxml-->
+<view class="container">
+<button
+  type="primary"
+  bindtap="onStart"
+>
+  开始
+</button>
+<text>{{count}}</text>
+</view>
